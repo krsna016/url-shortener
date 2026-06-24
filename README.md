@@ -9,7 +9,7 @@ Professional engineering repository configurations deployed inside your GitHub p
 
 ---
 
-## 📝 Overview & Core Description
+## Overview & Core Description
 
 A simple URL shortener web application built with Flask.
 
@@ -61,7 +61,7 @@ This step involves installing the required Python packages (dependencies) for yo
 
 ---
 
-## 🏛️ System Design & Folder Structure
+## System Design & Folder Structure
 ```text
 .github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
 .editorconfig             # Unified file formatting configuration
@@ -78,14 +78,14 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 🛠️ Tooling & Tech Stack
+## Tooling & Tech Stack
 - **Primary Environment:** Python runtime.
 - **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
 - **Standards Checkers:** Git `pre-commit` hook validations.
 
 ---
 
-## ⚙️ Quickstart & Local Setup
+## Quickstart & Local Setup
 1. Clone this repository locally:
    ```bash
    git clone https://github.com/krsna016/c1-url-shortner.git
@@ -98,10 +98,10 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 📋 Security & Responsible Disclosure
+## Security & Responsible Disclosure
 For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
 
 ---
 
-## 📜 License
+## License
 This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
